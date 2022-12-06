@@ -1,0 +1,8 @@
+let heads = 1;
+let tails = 0;
+flipvalue = 0;
+for (let i = 0; i < 100; i++)
+{
+  flipvalue = Math.floor(Math.random() * 2)
+
+}
